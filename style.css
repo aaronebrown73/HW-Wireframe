@@ -1,0 +1,71 @@
+body{
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-size: 18px;
+	background: #777;
+	color: lightslategray;
+}
+section{
+	background: #ebebeb;
+	text-align: center;
+	margin: 10px;
+
+}
+
+header{
+	padding: 20px;
+}
+
+nav{
+	padding: 20px;
+}
+
+footer{
+	padding: 20px;
+	margin: 10px;
+
+}
+
+section{
+	display: block;
+}
+
+aside{
+	padding: 20px;
+	color: lightslategray;
+
+}
+
+article{
+	background: #777;
+	padding: 20px;
+	color: white;
+
+}
+h1{
+	padding: 20px;
+	color: lightslategray;
+}
+
+p{
+	padding: 20px;
+	color: lightslategray;
+}
+
+.clear{
+	clear: both;
+
+}
+.half{
+	width: 45%;
+	float: left;
+}
+.wrapper{
+	position: absolute;
+	left: 130px;
+	right: 130px;
+}
+
+
+
+
+
